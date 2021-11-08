@@ -20,7 +20,7 @@ namespace LR_6
         private void buttonStart_Click(object sender, EventArgs e)
         {
             Hide();
-            Supermarket supermarket= new Supermarket();
+            Supermarket supermarket = new Supermarket();
             supermarket.Show();
         }
     }
